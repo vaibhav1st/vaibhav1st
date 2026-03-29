@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  < src="https://github.com/user-attachments/assets/05940216-d936-4699-a496-e3aa0af11fe7" />
+  <img src="https://github.com/user-attachments/assets/05940216-d936-4699-a496-e3aa0af11fe7" />
 </p>
 
 ## 🌐 Socials:
