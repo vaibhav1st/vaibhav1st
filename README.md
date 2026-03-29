@@ -1,3 +1,4 @@
+<img width="3712" height="1152" alt="Gemini_Generated_Image (1) tyt" src="https://github.com/user-attachments/assets/d10f904e-675e-4f64-ae4e-2fa36bc07ed9" />
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_vaibhav_1st/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
