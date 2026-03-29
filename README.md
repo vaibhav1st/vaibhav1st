@@ -48,7 +48,7 @@
 
 # 🧠 Profile Summary:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhav1st&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhav1st&theme=github_dark&cache_seconds=0)
 
 ---
 
