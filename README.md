@@ -1,9 +1,8 @@
-
-
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/05940216-d936-4699-a496-e3aa0af11fe7" />
+  <img src="https://raw.githubusercontent.com/vaibhav1st/vaibhav1st/main/banner.png" />
 </p>
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_vaibhav_1st/)
